@@ -4,6 +4,10 @@ Hydrab is a CLI Boilerplate for Nodejs with Typescript, including Express, Eslin
 
 ## Github Repo
 
-Check at https://github.com/infinitered/gluegun/tree/master/docs.
+Check at https://github.com/ffelipelimao/hydrab.
 
+
+## Run
+
+hydrab
 
