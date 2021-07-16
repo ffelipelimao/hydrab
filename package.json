@@ -5,7 +5,7 @@
   "private": true,
   "types": "build/types/types.d.ts",
   "bin": {
-    "test": "bin/test"
+    "hydrab": "bin/hydrab"
   },
   "scripts": {
     "format": "prettier --write **/*.{js,ts,tsx,json}",
