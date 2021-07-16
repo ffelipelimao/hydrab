@@ -45,13 +45,13 @@ const command: GluegunCommand = {
       
       await generate({
           template: file,
-          target: handleFile[fileExtensionsOff] ? `build/${handleFile[fileExtensionsOff]}` : `build/${fileExtensionsOff}`
+          target: handleFile[fileExtensionsOff] ? handleFile[fileExtensionsOff] : fileExtensionsOff
       })
       
     })
 
 
-  print.info('Done... :D')
+  print.info('Done             :)')
   print.info('Happy Code!')
 
   },

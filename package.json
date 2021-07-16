@@ -1,8 +1,7 @@
 {
   "name": "hydrab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hydrab is a boilerplate for Nodejs with Typescript, including Express, Eslint, Prettier and Husky",
-  "private": true,
   "types": "build/types/types.d.ts",
   "bin": {
     "hydrab": "bin/hydrab"
