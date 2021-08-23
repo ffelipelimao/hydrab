@@ -12,7 +12,7 @@ const command: GluegunCommand = {
       '.eslintrc.json.ejs',
       '.gitignore.ejs',
       '.huskyrc.json.ejs',
-      '.jest.config.js.ejs',
+      'jest.config.js.ejs',
       'app.ts.ejs',
       'index.ts.ejs',
       'test.spec.ts.ejs',
